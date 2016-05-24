@@ -1,0 +1,8 @@
+D:\C#\MirasAuto\MirasAuto\MirasAuto\bin\Debug\MirasAuto.exe.config
+D:\C#\MirasAuto\MirasAuto\MirasAuto\bin\Debug\MirasAuto.exe
+D:\C#\MirasAuto\MirasAuto\MirasAuto\bin\Debug\MirasAuto.pdb
+D:\C#\MirasAuto\MirasAuto\MirasAuto\obj\Debug\MirasAuto.Form1.resources
+D:\C#\MirasAuto\MirasAuto\MirasAuto\obj\Debug\MirasAuto.Properties.Resources.resources
+D:\C#\MirasAuto\MirasAuto\MirasAuto\obj\Debug\MirasAuto.csproj.GenerateResource.Cache
+D:\C#\MirasAuto\MirasAuto\MirasAuto\obj\Debug\MirasAuto.exe
+D:\C#\MirasAuto\MirasAuto\MirasAuto\obj\Debug\MirasAuto.pdb
